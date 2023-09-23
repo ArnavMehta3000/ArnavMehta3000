@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/its_me_arnav" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_arnav?logo=twitter&style=for-the-badge" alt="its_me_arnav" /></a> </p>
 
-- 🌱 I’m currently learning **DirectX 11, Unreal Engine and Unity**
-
 - 👨‍💻 All of my projects are available at [https://arnavmehta3000.github.io/](https://arnavmehta3000.github.io/)
-
-- 📫 How to reach me **arnavdatt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
