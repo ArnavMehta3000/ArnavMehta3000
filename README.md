@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/its_me_arnav" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_arnav?logo=twitter&style=for-the-badge" alt="its_me_arnav" /></a> </p>
 
+- I'm interested in game engines, tooling, backend and API design
+
+- Avid C++ enjoyer :D
+
 - 👨‍💻 All of my projects are available at [https://arnavmehta3000.github.io/](https://arnavmehta3000.github.io/)
 
 <h3 align="left">Connect with me:</h3>
