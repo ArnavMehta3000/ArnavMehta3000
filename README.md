@@ -22,6 +22,6 @@
 <img  align="left"  alt="Github Desktop"  width="26px"  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  /></a> </p>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavmehta3000&show_icons=true&locale=en&layout=compact" alt="arnavmehta3000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavmehta3000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arnavmehta3000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavmehta3000&show_icons=true&locale=en" alt="arnavmehta3000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavmehta3000&show_icons=true&locale=en&theme=tokyonight" alt="arnavmehta3000" /></p>
