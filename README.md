@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavmehta3000&label=Profile%20views&color=0e75b6&style=falt" alt="arnavmehta3000" /> </p>
 
 - I'm interested in game engines, tooling, backend and API design
-- Currently working as a Junior Engineer @ [Flix Interactive](https://www.flixinteractive.com/)
+- Currently working as a Level 1 Engineer @ [Flix Interactive](https://www.flixinteractive.com/)
 - Avid C++ enjoyer :D
 
 - 👨‍💻 All of my projects are available on [my website](https://arnavmehta3000.github.io/)
